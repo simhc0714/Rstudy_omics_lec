@@ -1,0 +1,7 @@
+id	filename	md5	size	state
+22cdc9bd-e947-4046-866a-3d19c05a1a32	22cdc9bd-e947-4046-866a-3d19c05a1a32/nationwidechildrens.org_clinical_drug_prad.txt	34c66bacd0e77921e86356bc90e6df4a	58472	validated
+2dfd48af-0267-4cfe-b964-cb4042a33d72	2dfd48af-0267-4cfe-b964-cb4042a33d72/nationwidechildrens.org_clinical_nte_prad.txt	fc76d60aedd95e8d6c51d178d80b29c0	18113	validated
+4ba7eda6-1335-4290-8af3-8fd165d40419	4ba7eda6-1335-4290-8af3-8fd165d40419/nationwidechildrens.org_clinical_omf_v4.0_prad.txt	b21e93595a054e364680b10723b97646	16568	validated
+7d1d18c8-1693-49de-8f76-3a733a031dea	7d1d18c8-1693-49de-8f76-3a733a031dea/nationwidechildrens.org_clinical_radiation_prad.txt	0cfd83ea55ac690a9339c66f879d2d85	22427	validated
+8c0ff8e6-d952-4d6f-b0fa-8897a69c2882	8c0ff8e6-d952-4d6f-b0fa-8897a69c2882/nationwidechildrens.org_clinical_follow_up_v1.0_prad.txt	9abf85840c58fa224b927a60cc8a8082	232607	validated
+dc99e120-0159-4470-ab3c-6581032935e9	dc99e120-0159-4470-ab3c-6581032935e9/nationwidechildrens.org_clinical_patient_prad.txt	a885902e0e109d53371a848572bd45e4	378498	validated
